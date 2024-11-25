@@ -23,6 +23,8 @@
         "import/extensions": [
             "error",
             "ignorePackages"
-            ]
+            ],
+            "editor.codeActionsOnSave": {"source.fixAll.eslint": true },
+            "eslint.validate": ["javascript"]
      }
    }
