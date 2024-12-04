@@ -11,14 +11,14 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/Polya008/Help-desk.git"
+        "url": "git+https://github.com/FerzGT/Help-desk.git"
     },
     "author": "",
     "license": "ISC",
     "bugs": {
-        "url": "https://github.com/Polya008/Help-desk/issues"
+        "url": "https://github.com/FerzGT/Help-desk/issues"
     },
-    "homepage": "https://github.com/Polya008/Help-desk#readme",
+    "homepage": "https://github.com/FerzGT/Help-desk#readme",
     "devDependencies": {
         "@babel/cli": "^7.22.15",
         "@babel/core": "^7.22.17",

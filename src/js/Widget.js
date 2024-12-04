@@ -42,7 +42,7 @@ export default class Widget {
   createForm() {
     const form = document.createElement('form');
     form.classList.add('widget');
-    form.innerHTML = ` <h2>Выберите псевдоним</h2>
+    form.innerHTML = `<h2>Выберите псевдоним</h2>
         <input class="input widget-input" type="text" name="nick" required>
         <button type="submit" class="btn">Продолжить</button>`;
 
