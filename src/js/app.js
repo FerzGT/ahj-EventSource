@@ -1,5 +1,5 @@
 import Widget from './Widget.js';
 
-const widget = new Widget('ws://localhost:5500/ws');
+const widget = new Widget('wss://ahj-eventsource.onrender.com/ws');
 
-widget.createForm;
+widget.createForm();
